@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 
 /**
  * create a base page class that encapsulates the common logic for all the page classes.
- * @author guson
+ * @author Kenna Yang
  *
  */
 public class BasePage {
