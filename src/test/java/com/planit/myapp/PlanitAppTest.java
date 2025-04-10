@@ -59,7 +59,7 @@ public class PlanitAppTest{
     }    
     
     //@Test
-    //@RepeatedTest(2)
+    //@RepeatedTest(5)
     public void test02()
     {
         System.out.println("@Test02 ...");
