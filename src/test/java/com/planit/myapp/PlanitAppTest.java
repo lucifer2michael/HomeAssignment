@@ -16,7 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
  * 
- * @author Kenny Yang
+ * @author Kenna Yang
  * mvn clean test -Dwebdriver.chrome.driver="../Selenium/chromedriver"
  */
 public class PlanitAppTest{
